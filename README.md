@@ -1,8 +1,8 @@
 # WetubeChallengeDay2930
 Created with CodeSandbox
 
-##Nomad Academy YouTube clone coding challenge Day 23
-###criteria
+## Nomad Academy YouTube clone coding challenge Day 23
+### criteria
 
 - Play / Pause Button
 - Show the player bar when the user hovers moves the mouse
