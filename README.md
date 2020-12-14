@@ -1,4 +1,4 @@
-# WetubeChallengeDay2930
+# WetubeChallengeDay2930 Video Player
 Created with CodeSandbox
 
 ## Nomad Academy YouTube clone coding challenge Day 23
